@@ -1,0 +1,23 @@
+Overall Metrics:
+---------------
+
+Micro-average:
+Precision: 0.8228
+Recall: 0.8889
+F1-Score: 0.8546
+
+Macro-average:
+Precision: 0.7423
+Recall: 0.8027
+F1-Score: 0.7696
+
+Weighted-average:
+Precision: 0.8214
+Recall: 0.8889
+F1-Score: 0.8534
+
+Exact Match Ratio:
+0.7115
+
+Hamming Accuracy:
+0.9411
