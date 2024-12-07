@@ -48,20 +48,23 @@ To set up and use this project, follow these steps:
 
 Follow these steps to use the project:
 
-1. **Prepare the Dataset**:
-   - Ensure your dataset is formatted appropriately for multi-label classification. The dataset should follow the expected structure.
+1. **Run the Notebooks**:
+   To run Sbert
+    ```
+    python3 sbert-model.py
+    ```
 
-2. **Run the Notebooks**:
-   - Launch Jupyter Notebook:
-     ```bash
-     jupyter notebook
-     ```
-   - Open any of the following notebooks to train and evaluate models:
-     - `bert-model.ipynb`
-     - `bi-lstm-word2vec.ipynb`
-     - `sbert-model.ipynb`
+    To run Bert
+    ```
+    python3 bert-model.py
+    ```
 
-3. **Model Outputs**:
+    To run Bidirectional LSTM
+    ```
+    python3 bi-lstm-word2vec.py
+    ```
+
+2. **Model Outputs**:
    - Results and outputs will be saved in the `output/` directory for further analysis.
 
 ## Project Members
